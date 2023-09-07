@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Exit-9B/InventoryInjector/main/docs/InventoryInjector.schema.json",
+  "rules": [
+    {
+      "match": {
+        "formType": "MiscItem",
+        "formId": "Spellforge.esp|01BE29"
+      },
+      "assign": {
+		"iconSource": "AIT/Aura/icons.swf",
+        "iconLabel": "misc_gem",
+		"iconColor": "#0f52ba"
+      }
+    }
+]
+}

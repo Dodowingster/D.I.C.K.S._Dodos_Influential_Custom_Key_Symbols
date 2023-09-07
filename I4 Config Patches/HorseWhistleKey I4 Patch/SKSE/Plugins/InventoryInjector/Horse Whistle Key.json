@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Exit-9B/InventoryInjector/main/docs/InventoryInjector.schema.json",
+  "rules": [
+   {
+		"match": {
+			"formType": "Spell",
+			"formId": "Horse Whistle Key.esp|000CC7"
+		},
+		"assign": {
+			"magicClassDisplay": "$MagicGeneral",
+			"subTypeDisplay": "$MagicAction",
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "power_horsewhistle"
+		}
+	}
+  ]
+}

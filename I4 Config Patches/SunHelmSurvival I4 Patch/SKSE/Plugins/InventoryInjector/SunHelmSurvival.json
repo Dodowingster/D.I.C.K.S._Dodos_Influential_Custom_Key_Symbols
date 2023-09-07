@@ -1,0 +1,61 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Exit-9B/InventoryInjector/main/docs/InventoryInjector.schema.json",
+  "rules": [
+    {
+		"match": {
+			"formType": "Spell",
+			"formId": "SunHelmSurvival.esp|F42AB"
+		},
+		"assign": {
+			"magicClassDisplay": "$MagicSurvival",	
+			"subTypeDisplay": "$MagicAction",			
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "power_continuancealt",
+			"iconColor": "#f48037"
+		}
+	},
+	{
+		"match": {
+			"formType": "Spell",
+			"formId": "SunHelmSurvival.esp|2475DF"
+		},
+		"assign": {
+			"magicClassDisplay": "$MagicSurvival",	
+			"subTypeDisplay": "$MagicAction",			
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "power_fillbottle",
+			"iconColor": "#f48037"
+		}
+	},
+	{
+		"match": {
+			"formType": "MiscItem",
+			"formId": "SunHelmSurvival.esp|4DE9AD"
+		},
+		"assign": {
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "food_waterskin",
+			"iconColor": "#FFFFFF"
+		}
+	},
+	{
+		"match": {
+			"formType": "Potion",
+			"formId": 
+			{	"anyOf":
+				[
+					"SunHelmSurvival.esp|4DE9AE",
+					"SunHelmSurvival.esp|4DE9AF",
+					"SunHelmSurvival.esp|4DE9B0",
+					"SunHelmSurvival.esp|4EDCC1"
+				]
+			}
+		},
+		"assign": {
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "food_waterskin",
+			"iconColor": "#349bdc"
+		}
+	}
+  ]
+}

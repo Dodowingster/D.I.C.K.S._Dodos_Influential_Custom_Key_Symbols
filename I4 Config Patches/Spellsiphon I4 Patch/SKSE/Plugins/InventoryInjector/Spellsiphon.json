@@ -1,0 +1,119 @@
+{
+"$schema": "https://raw.githubusercontent.com/GroundAura/InventoryInjector/main/docs/InventoryInjector.schema.json",
+"rules": [
+	{
+		"match": {
+			"formType": "Spell",
+			"formId": "Spellsiphon.esp|2B4A26"
+		},
+		"assign": {
+			"magicClassDisplay": "$MagicArcane",
+			"subTypeDisplay": "$MagicAction",
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "power_spellsiphon",
+			"iconColor": "#ADD8E6"
+		}
+	},
+	{
+		"match": {
+			"formType": "Spell",
+			"formId": "Spellsiphon.esp|1FD77B"
+		},
+		"assign": {
+			"magicClassDisplay": "$MagicArcane",
+			"subTypeDisplay": "$MagicAction",
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "power_reverse",
+			"iconColor": "#ADD8E6"
+		}
+	},
+	{
+		"match": {
+			"formType": "Spell",
+			"formId": "Spellsiphon.esp|390EC9"
+		},
+		"assign": {
+			"magicClassDisplay": "$MagicArcane",
+			"subTypeDisplay": "$MagicAction",
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "power_refocus",
+			"iconColor": "#ADD8E6"
+		}
+	},
+	{
+		"match": {
+			"formType": "Spell",
+			"formId": "Spellsiphon.esp|9DFA9"
+		},
+		"assign": {
+			"magicClassDisplay": "$MagicArcane",
+			"subTypeDisplay": "$MagicAction",
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "power_reshape",
+			"iconColor": "#ADD8E6"
+		}
+	},
+	{
+		"match": {
+			"formType": "Spell",
+			"formId": "Spellsiphon.esp|721A40"
+		},
+		"assign": {
+			"magicClassDisplay": "$MagicArcane",
+			"subTypeDisplay": "$MagicAction",
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "power_realign",
+			"iconColor": "#f5c81c"
+		}
+	},
+	{
+		"match": {
+			"formType": "Spell",
+			"formId": "Spellsiphon.esp|721A3E"
+		},
+		"assign": {
+			"magicClassDisplay": "$MagicArcane",
+			"subTypeDisplay": "$MagicAction",
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "power_entangle",
+			"iconColor": "#f5c81c"
+		}
+	},
+	{
+		"match": {
+			"formType": "Spell",
+			"formId": "Spellsiphon.esp|73AF52"
+		},
+		"assign": {
+			"magicClassDisplay": "$MagicArcane",
+			"subTypeDisplay": "$MagicAction",
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "power_untangle",
+			"iconColor": "#c0c0c0"
+		}
+	},
+	{
+		"match": {
+			"formId": {
+				"anyOf":
+				[
+				"Spellsiphon.esp|331C",
+				"Spellsiphon.esp|1FFF1C",
+				"Spellsiphon.esp|1FFF1D",
+				"Spellsiphon.esp|390ECB",
+				"Spellsiphon.esp|390ECC",
+				"Spellsiphon.esp|4B77B6",
+				"Spellsiphon.esp|4B77B7",
+				"Spellsiphon.esp|7AA573",
+				"Spellsiphon.esp|7AA574"
+				]
+			}
+		},
+		"assign": {
+			"iconSource": "Dodo/powers.swf",
+			"iconLabel": "voice_bind",
+			"iconColor": "#ADD8E6"
+		}
+	}
+	]
+}

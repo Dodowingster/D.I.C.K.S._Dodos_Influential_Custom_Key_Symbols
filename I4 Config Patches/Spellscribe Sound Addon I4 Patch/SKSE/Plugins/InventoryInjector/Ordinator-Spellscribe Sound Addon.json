@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Exit-9B/InventoryInjector/main/docs/InventoryInjector.schema.json",
+  "rules": [
+    {
+      "match": {
+        "formType": "Spell",
+        "formId": "Ordinator-Spellscribe Sound Addon.esp|0x0066A0"
+      },
+      "assign": {
+		"magicClassDisplay": "$MagicUtility",
+		"subTypeDisplay": "$MagicConfig",
+		"iconSource": "Dodo/skills.swf",
+		"iconLabel": "skill_enchanting"
+      }
+    }
+]
+}
