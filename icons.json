@@ -170,7 +170,7 @@
         "folder": "Pilgrim"
     },
     {
-        "path": "Patches/Distinct%20Remote%20Interactions%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Remote%20Interactions.esp_0x00180A.svg",
+        "path": "Patches/Distinct%20Remote%20Interactions%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Remote%20Interactions.esp_0x00080A.svg",
         "name": "Remote Interactions",
         "folder": "Remote Interactions"
     },
@@ -300,7 +300,7 @@
         "folder": "Sunhelm"
     },
     {
-        "path": "Patches/Distinct%20Taunt%20Your%20Enemies%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Taunt%20Your%20Enemies.esp_0x001D65.svg",
+        "path": "Patches/Distinct%20Taunt%20Your%20Enemies%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Taunt%20Your%20Enemies.esp_0x000D65.svg",
         "name": "Taunt Your Enemies",
         "folder": "Taunt Your Enemies"
     },
