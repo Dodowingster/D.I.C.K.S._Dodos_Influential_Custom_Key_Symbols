@@ -39,12 +39,65 @@
             color: #333;
             word-break: break-word;
         }
+
+        .header-image-container {
+            display: block;
+            max-width: 600px;
+            height: 200px;
+            /* Adjust this value to control how much is cropped */
+            margin: 0 auto 2rem auto;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+            /* This hides the parts of the image outside the container */
+            transition: transform 0.3s ease;
+        }
+
+        .header-image-container:hover {
+            transform: scale(1.02);
+        }
+
+        .header-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            /* This makes the image cover the container */
+            object-position: center 40%;
+            /* Adjust this to control which part of the image is shown */
+        }
+
+        .nexus-link {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .nexus-link a {
+            color: #6c757d;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .nexus-link a:hover {
+            color: #0d6efd;
+            text-decoration: underline;
+        }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <h1 class="text-center mb-4">Icon Gallery</h1>
+        <h1 class="text-center mb-4">Dodo's Wheeler Compendium</h1>
+        <div class="nexus-link">
+            <a href="https://www.nexusmods.com/skyrimspecialedition/mods/98619" target="_blank"
+                class="header-image-container">
+                <img src="https://staticdelivery.nexusmods.com/mods/1704/images/98619/98619-1692640484-296762975.png"
+                    alt="Dodo's Influential Custom Key Symbols" class="header-image">
+            </a>
+            <a href="https://www.nexusmods.com/skyrimspecialedition/mods/98619" target="_blank">
+                <h3 class="text-center">WOE, COLOURS BE UPON YE</h3>
+            </a>
+        </div>
         <div class="row g-4">
             <!-- implement here -->
         </div>
