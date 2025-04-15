@@ -6,6 +6,11 @@ on:
       - 'Patches/**'
 
   workflow_dispatch:
+      inputs:
+        run_notebook:
+          description: 'Run Jupyter Notebook to generate SVG JSON'
+          required: true
+          default: 'true'
 
 jobs:
   run-notebook:
