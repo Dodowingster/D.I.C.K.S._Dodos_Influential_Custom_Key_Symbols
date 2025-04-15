@@ -2,36 +2,42 @@
 
 ## SVG Previews
 
+### Alternate Food
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="Patches/Alternate%20Food/SKSE/Plugins/Wheeler/Resources/Icons/food.svg" alt="food.svg" title="food.svg" width="64" height="64">
+</div>
+
 ### Distinct Campfire Patch
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="Patches/Distinct%20Campfire%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_Campfire.esm_0X2306B.svg" alt="Campfire" title="Campfire" width="64" height="64">
-<img src="Patches/Distinct%20Campfire%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_Campfire.esm_0X25647.svg" alt="Campfire" title="Campfire" width="64" height="64">
 <img src="Patches/Distinct%20Campfire%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_Campfire.esm_0X25BD5.svg" alt="Campfire" title="Campfire" width="64" height="64">
+<img src="Patches/Distinct%20Campfire%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_Campfire.esm_0X25647.svg" alt="Campfire" title="Campfire" width="64" height="64">
 <img src="Patches/Distinct%20Campfire%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_Campfire.esm_0X35411.svg" alt="Campfire" title="Campfire" width="64" height="64">
 </div>
 
 ### Distinct Cc Fishing Patch
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="Patches/Distinct%20CC%20Fishing%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_ccBGSSSE001-Fish.esm_0x00084D.svg" alt="ccBGSSSE001-Fish" title="ccBGSSSE001-Fish" width="64" height="64">
-<img src="Patches/Distinct%20CC%20Fishing%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_ccBGSSSE001-Fish.esm_0x00084E.svg" alt="ccBGSSSE001-Fish" title="ccBGSSSE001-Fish" width="64" height="64">
 <img src="Patches/Distinct%20CC%20Fishing%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_ccBGSSSE001-Fish.esm_0x00084F.svg" alt="ccBGSSSE001-Fish" title="ccBGSSSE001-Fish" width="64" height="64">
 <img src="Patches/Distinct%20CC%20Fishing%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_ccBGSSSE001-Fish.esm_0x000850.svg" alt="ccBGSSSE001-Fish" title="ccBGSSSE001-Fish" width="64" height="64">
+<img src="Patches/Distinct%20CC%20Fishing%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_ccBGSSSE001-Fish.esm_0x00084E.svg" alt="ccBGSSSE001-Fish" title="ccBGSSSE001-Fish" width="64" height="64">
+<img src="Patches/Distinct%20CC%20Fishing%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_ccBGSSSE001-Fish.esm_0x00084D.svg" alt="ccBGSSSE001-Fish" title="ccBGSSSE001-Fish" width="64" height="64">
 </div>
 
 ### Distinct Dirt And Blood - Dynamic Visuals Patch
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x00082F.svg" alt="Dirt and Blood - Dynamic Visuals" title="Dirt and Blood - Dynamic Visuals" width="64" height="64">
 <img src="Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x000860.svg" alt="Dirt and Blood - Dynamic Visuals" title="Dirt and Blood - Dynamic Visuals" width="64" height="64">
+<img src="Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x00082F.svg" alt="Dirt and Blood - Dynamic Visuals" title="Dirt and Blood - Dynamic Visuals" width="64" height="64">
 </div>
 
 ### Distinct Dirt And Blood - Dynamic Visuals Patch (Alternate)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x00082F.svg" alt="Dirt and Blood - Dynamic Visuals" title="Dirt and Blood - Dynamic Visuals" width="64" height="64">
 <img src="Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x000860.svg" alt="Dirt and Blood - Dynamic Visuals" title="Dirt and Blood - Dynamic Visuals" width="64" height="64">
+<img src="Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x00082F.svg" alt="Dirt and Blood - Dynamic Visuals" title="Dirt and Blood - Dynamic Visuals" width="64" height="64">
 </div>
 
 ### Distinct Horse Whistle Key Patch
@@ -97,44 +103,58 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="Patches/Distinct%20Skills%20of%20The%20Wild%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_SkillsOfTheWild.esp_0x000861.svg" alt="SkillsOfTheWild" title="SkillsOfTheWild" width="64" height="64">
+<img src="Patches/Distinct%20Skills%20of%20The%20Wild%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_SkillsOfTheWild.esp_0x00094D.svg" alt="SkillsOfTheWild" title="SkillsOfTheWild" width="64" height="64">
 <img src="Patches/Distinct%20Skills%20of%20The%20Wild%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_SkillsOfTheWild.esp_0x000867.svg" alt="SkillsOfTheWild" title="SkillsOfTheWild" width="64" height="64">
 <img src="Patches/Distinct%20Skills%20of%20The%20Wild%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_SkillsOfTheWild.esp_0x0008A4.svg" alt="SkillsOfTheWild" title="SkillsOfTheWild" width="64" height="64">
-<img src="Patches/Distinct%20Skills%20of%20The%20Wild%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_SkillsOfTheWild.esp_0x00094D.svg" alt="SkillsOfTheWild" title="SkillsOfTheWild" width="64" height="64">
 </div>
 
 ### Distinct Spellsiphon Patch
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x00331C.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
 <img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x09DFA9.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
-<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x1Fd77B.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
-<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x1FFF1C.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
-<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x1FFF1D.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
-<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x2B4A26.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
-<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x390ec9.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
-<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x390ECB.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
-<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x390ECC.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
-<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x4B77B6.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
-<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x4B77B7.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
 <img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x721A3E.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x1FFF1D.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
 <img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x721A40.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
-<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x73Af52.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
-<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x7AA573.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x390ECB.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
 <img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x7AA574.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x4B77B6.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x390ECC.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x390ec9.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x00331C.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x73Af52.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x1Fd77B.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x2B4A26.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x7AA573.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x1FFF1C.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+<img src="Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x4B77B7.svg" alt="Spellsiphon" title="Spellsiphon" width="64" height="64">
+</div>
+
+### Distinct Stay In Shape - A Pumpfire Addon Patch
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="Patches/Distinct%20Stay%20in%20Shape%20-%20A%20Pumpfire%20Addon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Stay%20In%20Shape%20-%20A%20Pumping%20Iron%20Addon.esp_0x000D6A.svg" alt="Stay In Shape - A Pumping Iron Addon" title="Stay In Shape - A Pumping Iron Addon" width="64" height="64">
 </div>
 
 ### Distinct Sunhelm Patch
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="Patches/Distinct%20Sunhelm%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_SunHelmSurvival.esp_0X4DE9AE.svg" alt="SunHelmSurvival" title="SunHelmSurvival" width="64" height="64">
 <img src="Patches/Distinct%20Sunhelm%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_SunHelmSurvival.esp_0X2475DF.svg" alt="SunHelmSurvival" title="SunHelmSurvival" width="64" height="64">
+<img src="Patches/Distinct%20Sunhelm%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_SunHelmSurvival.esp_0X4DE9B0.svg" alt="SunHelmSurvival" title="SunHelmSurvival" width="64" height="64">
+<img src="Patches/Distinct%20Sunhelm%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_SunHelmSurvival.esp_0X4DE9AD.svg" alt="SunHelmSurvival" title="SunHelmSurvival" width="64" height="64">
 <img src="Patches/Distinct%20Sunhelm%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_SunHelmSurvival.esp_0XF42AB.svg" alt="SunHelmSurvival" title="SunHelmSurvival" width="64" height="64">
+<img src="Patches/Distinct%20Sunhelm%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_SunHelmSurvival.esp_0X4DE9AF.svg" alt="SunHelmSurvival" title="SunHelmSurvival" width="64" height="64">
 </div>
 
 ### Distinct Sunhelm Patch (Alternate)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="Patches/Distinct%20Sunhelm%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_SunHelmSurvival.esp_0X4DE9AE.svg" alt="SunHelmSurvival" title="SunHelmSurvival" width="64" height="64">
 <img src="Patches/Distinct%20Sunhelm%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_SunHelmSurvival.esp_0X2475DF.svg" alt="SunHelmSurvival" title="SunHelmSurvival" width="64" height="64">
+<img src="Patches/Distinct%20Sunhelm%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_SunHelmSurvival.esp_0X4DE9B0.svg" alt="SunHelmSurvival" title="SunHelmSurvival" width="64" height="64">
+<img src="Patches/Distinct%20Sunhelm%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_SunHelmSurvival.esp_0X4DE9AD.svg" alt="SunHelmSurvival" title="SunHelmSurvival" width="64" height="64">
 <img src="Patches/Distinct%20Sunhelm%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_SunHelmSurvival.esp_0XF42AB.svg" alt="SunHelmSurvival" title="SunHelmSurvival" width="64" height="64">
+<img src="Patches/Distinct%20Sunhelm%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_SunHelmSurvival.esp_0X4DE9AF.svg" alt="SunHelmSurvival" title="SunHelmSurvival" width="64" height="64">
 </div>
 
 ### Distinct Taunt Your Enemies Patch
