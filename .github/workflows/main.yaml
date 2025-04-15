@@ -5,6 +5,8 @@ on:
     paths:
       - 'Patches/**'
 
+  workflow_dispatch:
+
 jobs:
   run-notebook:
     runs-on: ubuntu-latest
