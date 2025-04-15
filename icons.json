@@ -1,11 +1,11 @@
 [
     {
-        "path": "Patches/Distinct%20Campfire%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_Campfire.esm_0X2306B.svg",
-        "name": "Campfire",
-        "folder": "Distinct Campfire Patch"
+        "path": "Patches/Alternate%20Food/SKSE/Plugins/Wheeler/Resources/Icons/food.svg",
+        "name": "food.svg",
+        "folder": "Alternate Food"
     },
     {
-        "path": "Patches/Distinct%20Campfire%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_Campfire.esm_0X25647.svg",
+        "path": "Patches/Distinct%20Campfire%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_Campfire.esm_0X2306B.svg",
         "name": "Campfire",
         "folder": "Distinct Campfire Patch"
     },
@@ -15,19 +15,14 @@
         "folder": "Distinct Campfire Patch"
     },
     {
-        "path": "Patches/Distinct%20Campfire%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_Campfire.esm_0X35411.svg",
+        "path": "Patches/Distinct%20Campfire%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_Campfire.esm_0X25647.svg",
         "name": "Campfire",
         "folder": "Distinct Campfire Patch"
     },
     {
-        "path": "Patches/Distinct%20CC%20Fishing%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_ccBGSSSE001-Fish.esm_0x00084D.svg",
-        "name": "ccBGSSSE001-Fish",
-        "folder": "Distinct Cc Fishing Patch"
-    },
-    {
-        "path": "Patches/Distinct%20CC%20Fishing%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_ccBGSSSE001-Fish.esm_0x00084E.svg",
-        "name": "ccBGSSSE001-Fish",
-        "folder": "Distinct Cc Fishing Patch"
+        "path": "Patches/Distinct%20Campfire%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_Campfire.esm_0X35411.svg",
+        "name": "Campfire",
+        "folder": "Distinct Campfire Patch"
     },
     {
         "path": "Patches/Distinct%20CC%20Fishing%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_ccBGSSSE001-Fish.esm_0x00084F.svg",
@@ -40,9 +35,14 @@
         "folder": "Distinct Cc Fishing Patch"
     },
     {
-        "path": "Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x00082F.svg",
-        "name": "Dirt and Blood - Dynamic Visuals",
-        "folder": "Distinct Dirt And Blood - Dynamic Visuals Patch"
+        "path": "Patches/Distinct%20CC%20Fishing%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_ccBGSSSE001-Fish.esm_0x00084E.svg",
+        "name": "ccBGSSSE001-Fish",
+        "folder": "Distinct Cc Fishing Patch"
+    },
+    {
+        "path": "Patches/Distinct%20CC%20Fishing%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_ccBGSSSE001-Fish.esm_0x00084D.svg",
+        "name": "ccBGSSSE001-Fish",
+        "folder": "Distinct Cc Fishing Patch"
     },
     {
         "path": "Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x000860.svg",
@@ -50,12 +50,17 @@
         "folder": "Distinct Dirt And Blood - Dynamic Visuals Patch"
     },
     {
-        "path": "Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x00082F.svg",
+        "path": "Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x00082F.svg",
+        "name": "Dirt and Blood - Dynamic Visuals",
+        "folder": "Distinct Dirt And Blood - Dynamic Visuals Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x000860.svg",
         "name": "Dirt and Blood - Dynamic Visuals",
         "folder": "Distinct Dirt And Blood - Dynamic Visuals Patch (Alternate)"
     },
     {
-        "path": "Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x000860.svg",
+        "path": "Patches/Distinct%20Dirt%20and%20Blood%20-%20Dynamic%20Visuals%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_Dirt%20and%20Blood%20-%20Dynamic%20Visuals.esp_0x00082F.svg",
         "name": "Dirt and Blood - Dynamic Visuals",
         "folder": "Distinct Dirt And Blood - Dynamic Visuals Patch (Alternate)"
     },
@@ -185,6 +190,11 @@
         "folder": "Distinct Skills Of The Wild Patch"
     },
     {
+        "path": "Patches/Distinct%20Skills%20of%20The%20Wild%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_SkillsOfTheWild.esp_0x00094D.svg",
+        "name": "SkillsOfTheWild",
+        "folder": "Distinct Skills Of The Wild Patch"
+    },
+    {
         "path": "Patches/Distinct%20Skills%20of%20The%20Wild%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_SkillsOfTheWild.esp_0x000867.svg",
         "name": "SkillsOfTheWild",
         "folder": "Distinct Skills Of The Wild Patch"
@@ -195,62 +205,7 @@
         "folder": "Distinct Skills Of The Wild Patch"
     },
     {
-        "path": "Patches/Distinct%20Skills%20of%20The%20Wild%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_SkillsOfTheWild.esp_0x00094D.svg",
-        "name": "SkillsOfTheWild",
-        "folder": "Distinct Skills Of The Wild Patch"
-    },
-    {
-        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x00331C.svg",
-        "name": "Spellsiphon",
-        "folder": "Distinct Spellsiphon Patch"
-    },
-    {
         "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x09DFA9.svg",
-        "name": "Spellsiphon",
-        "folder": "Distinct Spellsiphon Patch"
-    },
-    {
-        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x1Fd77B.svg",
-        "name": "Spellsiphon",
-        "folder": "Distinct Spellsiphon Patch"
-    },
-    {
-        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x1FFF1C.svg",
-        "name": "Spellsiphon",
-        "folder": "Distinct Spellsiphon Patch"
-    },
-    {
-        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x1FFF1D.svg",
-        "name": "Spellsiphon",
-        "folder": "Distinct Spellsiphon Patch"
-    },
-    {
-        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x2B4A26.svg",
-        "name": "Spellsiphon",
-        "folder": "Distinct Spellsiphon Patch"
-    },
-    {
-        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x390ec9.svg",
-        "name": "Spellsiphon",
-        "folder": "Distinct Spellsiphon Patch"
-    },
-    {
-        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x390ECB.svg",
-        "name": "Spellsiphon",
-        "folder": "Distinct Spellsiphon Patch"
-    },
-    {
-        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x390ECC.svg",
-        "name": "Spellsiphon",
-        "folder": "Distinct Spellsiphon Patch"
-    },
-    {
-        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x4B77B6.svg",
-        "name": "Spellsiphon",
-        "folder": "Distinct Spellsiphon Patch"
-    },
-    {
-        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x4B77B7.svg",
         "name": "Spellsiphon",
         "folder": "Distinct Spellsiphon Patch"
     },
@@ -260,17 +215,17 @@
         "folder": "Distinct Spellsiphon Patch"
     },
     {
+        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x1FFF1D.svg",
+        "name": "Spellsiphon",
+        "folder": "Distinct Spellsiphon Patch"
+    },
+    {
         "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x721A40.svg",
         "name": "Spellsiphon",
         "folder": "Distinct Spellsiphon Patch"
     },
     {
-        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x73Af52.svg",
-        "name": "Spellsiphon",
-        "folder": "Distinct Spellsiphon Patch"
-    },
-    {
-        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x7AA573.svg",
+        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x390ECB.svg",
         "name": "Spellsiphon",
         "folder": "Distinct Spellsiphon Patch"
     },
@@ -280,7 +235,77 @@
         "folder": "Distinct Spellsiphon Patch"
     },
     {
+        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x4B77B6.svg",
+        "name": "Spellsiphon",
+        "folder": "Distinct Spellsiphon Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x390ECC.svg",
+        "name": "Spellsiphon",
+        "folder": "Distinct Spellsiphon Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x390ec9.svg",
+        "name": "Spellsiphon",
+        "folder": "Distinct Spellsiphon Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x00331C.svg",
+        "name": "Spellsiphon",
+        "folder": "Distinct Spellsiphon Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x73Af52.svg",
+        "name": "Spellsiphon",
+        "folder": "Distinct Spellsiphon Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x1Fd77B.svg",
+        "name": "Spellsiphon",
+        "folder": "Distinct Spellsiphon Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x2B4A26.svg",
+        "name": "Spellsiphon",
+        "folder": "Distinct Spellsiphon Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x7AA573.svg",
+        "name": "Spellsiphon",
+        "folder": "Distinct Spellsiphon Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x1FFF1C.svg",
+        "name": "Spellsiphon",
+        "folder": "Distinct Spellsiphon Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Spellsiphon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Spellsiphon.esp_0x4B77B7.svg",
+        "name": "Spellsiphon",
+        "folder": "Distinct Spellsiphon Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Stay%20in%20Shape%20-%20A%20Pumpfire%20Addon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Stay%20In%20Shape%20-%20A%20Pumping%20Iron%20Addon.esp_0x000D6A.svg",
+        "name": "Stay In Shape - A Pumping Iron Addon",
+        "folder": "Distinct Stay In Shape - A Pumpfire Addon Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Sunhelm%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_SunHelmSurvival.esp_0X4DE9AE.svg",
+        "name": "SunHelmSurvival",
+        "folder": "Distinct Sunhelm Patch"
+    },
+    {
         "path": "Patches/Distinct%20Sunhelm%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_SunHelmSurvival.esp_0X2475DF.svg",
+        "name": "SunHelmSurvival",
+        "folder": "Distinct Sunhelm Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Sunhelm%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_SunHelmSurvival.esp_0X4DE9B0.svg",
+        "name": "SunHelmSurvival",
+        "folder": "Distinct Sunhelm Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Sunhelm%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_SunHelmSurvival.esp_0X4DE9AD.svg",
         "name": "SunHelmSurvival",
         "folder": "Distinct Sunhelm Patch"
     },
@@ -290,12 +315,37 @@
         "folder": "Distinct Sunhelm Patch"
     },
     {
+        "path": "Patches/Distinct%20Sunhelm%20Patch/SKSE/Plugins/Wheeler/Resources/Icons_custom/FID_SunHelmSurvival.esp_0X4DE9AF.svg",
+        "name": "SunHelmSurvival",
+        "folder": "Distinct Sunhelm Patch"
+    },
+    {
+        "path": "Patches/Distinct%20Sunhelm%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_SunHelmSurvival.esp_0X4DE9AE.svg",
+        "name": "SunHelmSurvival",
+        "folder": "Distinct Sunhelm Patch (Alternate)"
+    },
+    {
         "path": "Patches/Distinct%20Sunhelm%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_SunHelmSurvival.esp_0X2475DF.svg",
         "name": "SunHelmSurvival",
         "folder": "Distinct Sunhelm Patch (Alternate)"
     },
     {
+        "path": "Patches/Distinct%20Sunhelm%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_SunHelmSurvival.esp_0X4DE9B0.svg",
+        "name": "SunHelmSurvival",
+        "folder": "Distinct Sunhelm Patch (Alternate)"
+    },
+    {
+        "path": "Patches/Distinct%20Sunhelm%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_SunHelmSurvival.esp_0X4DE9AD.svg",
+        "name": "SunHelmSurvival",
+        "folder": "Distinct Sunhelm Patch (Alternate)"
+    },
+    {
         "path": "Patches/Distinct%20Sunhelm%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_SunHelmSurvival.esp_0XF42AB.svg",
+        "name": "SunHelmSurvival",
+        "folder": "Distinct Sunhelm Patch (Alternate)"
+    },
+    {
+        "path": "Patches/Distinct%20Sunhelm%20Patch%20%28Alternate%29/SKSE/Plugins/wheeler/resources/icons_custom/FID_SunHelmSurvival.esp_0X4DE9AF.svg",
         "name": "SunHelmSurvival",
         "folder": "Distinct Sunhelm Patch (Alternate)"
     },
