@@ -132,7 +132,7 @@
 ### Distinct Stay In Shape - A Pumpfire Addon Patch
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="Patches/Distinct%20Stay%20in%20Shape%20-%20A%20Pumpfire%20Addon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Stay%20In%20Shape%20-%20A%20Pumping%20Iron%20Addon.esp_0x000D6A.svg" alt="Stay In Shape - A Pumping Iron Addon" title="Stay In Shape - A Pumping Iron Addon" width="64" height="64">
+<img src="Patches/Distinct%20Stay%20in%20Shape%20-%20A%20Pumpfire%20Addon%20Patch/SKSE/Plugins/wheeler/resources/icons_custom/FID_Stay%20In%20Shape%20-%20A%20Pumping%20Iron%20Addon.esp_0x000D63.svg" alt="Stay In Shape - A Pumping Iron Addon" title="Stay In Shape - A Pumping Iron Addon" width="64" height="64">
 </div>
 
 ### Distinct Sunhelm Patch
